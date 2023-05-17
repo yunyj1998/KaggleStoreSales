@@ -1,11 +1,11 @@
 # Kaggle_Competition
 ## Store Sales - Time Series Forecasting
 
-[Streamlit 링크](https://choijms2-kaggle-storesales-app-a383bo.streamlit.app/) <br/><br/>
+[Streamlit 링크](https://yunyj1998-kagglestoresales-app-ky7mi6.streamlit.app/) <br/><br/>
 [발표 영상]() <br/><br/>
 [데모 시연]() <br/><br/>
-[포트 폴리오](https://github.com/ChoiJMS2/Kaggle_StoreSales/blob/main/storeSales.pdf) <br/><br/>
-![screensh](https://github.com/ChoiJMS2/Kaggle_StoreSales/blob/main/img/main_page.PNG)
+[포트 폴리오](https://github.com/yunyj1998/KaggleStoreSales/blob/main/storeSales.pdf) <br/><br/>
+![screensh](https://github.com/yunyj1998/KaggleStoreSales/blob/main/img/main_page.PNG)
 
 ## 1.프로젝트의 시작 (2023.04.20 ~ 2023.05.17)
 - Kaggle Competition : Store Sales - Time Series Forecasting ( Use machine learning to predict grocery sales )
@@ -25,7 +25,7 @@
 - [데이터 링크](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 ## 5. ERD (개체 관계 모델)
-![screensh](https://github.com/ChoiJMS2/Kaggle_StoreSales/blob/main/img/erd.jpg)
+![screensh](https://github.com/yunyj1998/KaggleStoreSales/blob/main/img/erd.jpg)
 
 ## 6. 팀 구성
 - 사용언어 : Python : 3.9.13v
@@ -67,7 +67,7 @@
 - 프로젝트 파일을 다운로드 받습니다. 
 
 ```bash
-git clone https://github.com/ChoiJMS2/Kaggle_StoreSales.git
+git clone https://github.com/yunyj1998/KaggleStoreSales.git
 ```
 
 - 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
