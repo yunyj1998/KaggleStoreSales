@@ -2,7 +2,7 @@
 ## Store Sales - Time Series Forecasting
 
 [Streamlit 링크](https://yunyj1998-kagglestoresales-app-ky7mi6.streamlit.app/) <br/><br/>
-[발표 영상]() <br/><br/>
+[발표 영상](https://youtu.be/0oyoY8s4few) <br/><br/>
 [데모 시연]() <br/><br/>
 [포트 폴리오](https://github.com/yunyj1998/KaggleStoreSales/blob/main/storeSales.pdf) <br/><br/>
 ![screensh](https://github.com/yunyj1998/KaggleStoreSales/blob/main/img/main_page.PNG)
