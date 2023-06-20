@@ -16,7 +16,6 @@ def run_home():
     with col1:
         img1 = Image.open("image/st1.png")
         st.image(img1, width=300)
-
     with col2:
         img2 = Image.open("image/py1.png")
         st.image(img2, width=300)
